@@ -26,7 +26,7 @@ CONST
     vMinor* = 69;
     Date* = "06-jun-2025";
 
-    FILE_EXT* = ".ob07";
+    FILE_EXT* = ".c07";
     RTL_NAME* = "RTL";
 
     MAX_GLOBAL_SIZE* = 1600000000;

@@ -1,7 +1,7 @@
 Command line parameters
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-| Input - text files of modules with the extension **.ob07**
+| Input - text files of modules with the extension **.c07**
 | Output - executable file of the ELF64 format
 
 Parameters:

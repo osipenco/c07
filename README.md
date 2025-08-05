@@ -1,4 +1,4 @@
-*Oberon-07 compiler for Linux x64*
+*Compiler-07 for Linux x64*
 
 # Build
 
